@@ -1,4 +1,10 @@
-# Навчальний проєкт Git
-Автор: Ваше ім’я та прізвище
-Мета: опанувати базові операції Git
-Стан: базову структуру створено.
+# Як працювати з проєктом
+Перед комітом перевіряйте git status і git diff
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAA
+AAAAAAAAAAA
+AAAAAA
+AA
+A
